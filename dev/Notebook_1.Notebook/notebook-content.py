@@ -16,6 +16,7 @@ b="world"
 print(a+b)
 print(a)
 print(b)
+#THIS IS A COMMENT
 
 # METADATA ********************
 
