@@ -12,7 +12,9 @@
 # CELL ********************
 
 a="hello"
-print(a)
+
+b="world"
+print(a+b)
 
 # METADATA ********************
 
